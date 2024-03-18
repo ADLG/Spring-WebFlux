@@ -2,6 +2,10 @@ En este repositorio se encuentra el Desarrollo inicial de una API REST en Spring
 -
 ## ***Spring WebFlux con MongoDB***
 
+<div>
+	<img src="https://raw.githubusercontent.com/ADLG/Spring-WebFlux/main/Webflux%20Mongo%208080.png">
+</div>
+
 ### Especificaciones:
 
 Project - Maven
